@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_binbook.xml" value="0.11458333333333333" />
-        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_binbook_comic.xml" value="0.11458333333333333" />
-        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_login.xml" value="0.10552536231884058" />
+        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_binbook_comic.xml" value="0.21" />
+        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_binbook_comic_wudhu.xml" value="0.18704710144927536" />
+        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_binbook_edu_book.xml" value="0.18704710144927536" />
+        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_login.xml" value="0.14" />
         <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_main.xml" value="0.16" />
-        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_register.xml" value="0.10552536231884058" />
+        <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProjects/Dalibin/app/src/main/res/layout/activity_welcome.xml" value="0.13385416666666666" />
       </map>
     </option>

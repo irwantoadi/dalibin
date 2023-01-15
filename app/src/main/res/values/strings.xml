@@ -4,4 +4,10 @@
     <string name="button_login">button login</string>
     <string name="button_sign_up">button sign up</string>
     <string name="background_menu">background menu</string>
+    <string name="lupa_kata_sandi">LUPA KATA SANDI</string>
+    <string name="alamat_email">ALAMAT EMAIL</string>
+    <string name="kata_sandi">KATA SANDI</string>
+    <string name="dengan_mendaftar_saya_telah_membaca_dan_setuju_dengan_ketentuan_dan_kebijakan_privasi_dalibin_apps">DENGAN MENDAFTAR, SAYA TELAH MEMBACA DAN SETUJU DENGAN <u><font color='yellow'>KETENTUAN</font></u> DAN <u><font color='yellow'>KEBIJAKAN PRIVASI</font></u> DALIBIN APPS</string>
+    <string name="nama_lengkap">NAMA LENGKAP</string>
+    <string name="username">USERNAME</string>
 </resources>

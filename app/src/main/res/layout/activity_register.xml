@@ -32,18 +32,77 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/title">
 
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="220dp"
+                    android:layout_marginRight="30dp"
+                    android:drawablePadding="10dp"
+                    android:hint="@string/nama_lengkap"
+                    android:textColor="@color/white"
+                    android:textColorHint="#B6B6B6"
+                    android:inputType="text" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_marginRight="30dp"
+                    android:drawablePadding="10dp"
+                    android:hint="@string/username"
+                    android:textColor="@color/white"
+                    android:textColorHint="#B6B6B6"
+                    android:inputType="text" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_marginRight="30dp"
+                    android:drawablePadding="10dp"
+                    android:hint="@string/alamat_email"
+                    android:textColor="@color/white"
+                    android:textColorHint="#B6B6B6"
+                    android:inputType="textEmailAddress" />
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_marginRight="30dp"
+                    android:drawablePadding="10dp"
+                    android:hint="@string/kata_sandi"
+                    android:textColor="@color/white"
+                    android:textColorHint="#B6B6B6"
+                    android:inputType="textPassword" />
+
                 <ImageButton
                     android:id="@+id/btn_signup"
                     android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     android:layout_marginLeft="30dp"
-                    android:layout_marginTop="355dp"
+                    android:layout_marginTop="11dp"
                     android:layout_marginRight="30dp"
                     android:adjustViewBounds="true"
                     android:scaleType="fitXY"
                     android:background="#00000000"
                     android:src="@drawable/btn_daftar"
                     android:contentDescription="@string/button_sign_up" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:gravity="center"
+                    android:text="@string/dengan_mendaftar_saya_telah_membaca_dan_setuju_dengan_ketentuan_dan_kebijakan_privasi_dalibin_apps"
+                    android:textSize="11sp"
+                    android:layout_marginHorizontal="10dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:layout_marginTop="10dp"/>
             </LinearLayout>
         </FrameLayout>
     </ScrollView>
